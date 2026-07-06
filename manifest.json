@@ -1,0 +1,33 @@
+{
+  "name": "Al Farasha Al Khadhra — Sales Ledger",
+  "short_name": "Al Farasha",
+  "description": "Sales invoices, customer statements, and payments for Al Farasha Al Khadhra Building Material Trading LLC.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f3f8f5",
+  "theme_color": "#103b2c",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
